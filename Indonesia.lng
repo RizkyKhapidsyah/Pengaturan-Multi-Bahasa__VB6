@@ -1,0 +1,13 @@
+[form1]
+lbljdl=Tolong Pilih Bahasa
+opt1=Indo
+opt2=Inggris
+cmdopen=Buka Form
+
+[form2]
+lbljdl=Masukan Data
+lblnama=Nama
+lblalamat=Alamat
+cmdnew=Tambah
+cmdsave=Simpan
+cmdclose=Tutup

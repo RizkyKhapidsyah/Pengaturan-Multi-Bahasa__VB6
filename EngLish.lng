@@ -1,0 +1,14 @@
+[form1]
+lbljdl=Please Choose Language
+opt1=Indonesian
+opt2=English
+cmdopen=Open Form
+
+[form2]
+lbljdl=Enty Data
+form2=English 
+lblnama=Name
+lblalamat=Address
+cmdnew=Add
+cmdsave=Save
+cmdclose=Close
